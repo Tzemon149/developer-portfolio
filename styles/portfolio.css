@@ -1,0 +1,179 @@
+.banner{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 1300px;
+    top: 216px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right; 
+    color: #151414;
+}
+.ok{
+position: absolute;
+width: 494px;
+height: 78px;
+left: 1315px;
+top: 530px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+line-height: 26px;
+text-align: right;
+color: #444343;
+}
+
+.oo{
+
+}
+
+.button{
+position: absolute;
+width: 160px;
+height: 64px;
+left: 1600px;
+top: 700px;
+background-color: orangered;
+color: white;
+font-weight: 700;
+font-size: 20px;
+border-radius: 5px;
+height: 64px;
+border-style: none;
+}
+.goku{
+position: absolute;
+width: 100px;
+height: 5%;
+left: 200px;
+top: 1150px;
+background: url(Dragon-Ball-Goku-PNG-Image.png);
+}
+.secondtext{
+position: absolute;
+width: 416px;
+height: 400px;
+left: 862px;
+top: ;
+font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right; 
+    color: #151414;
+}
+.ss{
+    position: absolute;
+    width: 416px;
+    height: 400px;
+    left: 950px;
+    top: 1350px; 
+}
+.texttext{
+position: absolute;
+width: 416px;
+height: 104px;
+left: 50px;
+top: %;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+color: #444343;
+}
+.my-plans{
+margin-top: 1000px;
+padding: 50px 400px;
+}
+.skills-container{
+display: flex;
+margin: 50px; 
+left: 100px;
+
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.section-title{
+    font-size: 80px;
+    left: 100px;
+}
+.skill{
+    margin: 90px;
+}
+
+.bg{
+border-style: none;
+border-radius: 8px;
+
+}
+.last{
+    position: absolute;
+    font-family: 'Work Sans';
+    font-style: oblique;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right; 
+    color: #131212;
+    box-shadow: #151414;
+}
+.okk{
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 500px;
+    background-color: orangered;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 5px;
+    height: 64px;
+    border-style: none;
+    top: 2900px;
+}
+.contact .section-title{
+    text-align: left;
+    font-style: oblique;
+    color: aliceblue;
+    
+}
+.contact{
+    display: flex;
+    gap: 1000px;
+    background-color: #131212;
+}
+.email{
+    color: aliceblue;
+    font-size: 20px;
+}
+.subs{
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: ;
+    background-color: orangered;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 5px;
+    height: 64px;
+    border-style: none; 
+}
+.contact input{
+margin-bottom: 24px;
+border: 0;
+padding: 18px 30px;
+}
+input{
+    height: 30px;
+    width: ;
+}
